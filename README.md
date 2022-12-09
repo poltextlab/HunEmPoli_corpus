@@ -83,8 +83,6 @@ In order to ensure the quality of the corpus, the inter-annotator agreement (Coh
 
 <div id="7_tablazat">
 <table style="width:90%;">
-<caption>Emóciótopikok esetében mért egyetértés - <span
-class="math inline"><em>κ</em></span> (1: Fear, 2: Suffering, 3: Crime, 4: Improvement, 5: Conflict, 6: Sorrow, 7: szomorúság, 8: Joy, 11: Assistance, 12: Justice.<br></caption>
 <colgroup>
 <col style="width: 10%" />
 <col style="width: 8%" />
