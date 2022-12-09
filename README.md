@@ -131,6 +131,145 @@ In order to ensure the quality of the corpus, the inter-annotator agreement (Coh
 
 Cohen's Kappa in different ETs - 1: Fear, 2: Suffering, 3: Crime, 4: Improvement, 5: Conflict, 6: Sorrow, 7: szomorúság, 8: Joy, 11: Assistance, 12: Justice.<br><br>
 
+# Emotion Topic metrics per Party
+
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;"> </th>
+<th style="text-align: center;"><strong>LMP</strong></th>
+<th style="text-align: center;"><strong>KDNP</strong></th>
+<th style="text-align: center;"><strong>MSZP</strong></th>
+<th style="text-align: center;"><strong>Jobbik</strong></th>
+<th style="text-align: center;"><strong>Fidesz</strong></th>
+<th style="text-align: center;"><strong>Independent</strong></th>
+<th style="text-align: center;"><strong>All</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><strong>Fear</strong></td>
+<td style="text-align: center;">133</td>
+<td style="text-align: center;">96</td>
+<td style="text-align: center;">87</td>
+<td style="text-align: center;">133</td>
+<td style="text-align: center;">161</td>
+<td style="text-align: center;">9</td>
+<td style="text-align: center;">619</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><strong>Suffering</strong></td>
+<td style="text-align: center;">2702</td>
+<td style="text-align: center;">880</td>
+<td style="text-align: center;">2370</td>
+<td style="text-align: center;">1968</td>
+<td style="text-align: center;">1156</td>
+<td style="text-align: center;">56</td>
+<td style="text-align: center;">9132</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><strong>Crime</strong></td>
+<td style="text-align: center;">265</td>
+<td style="text-align: center;">172</td>
+<td style="text-align: center;">284</td>
+<td style="text-align: center;">452</td>
+<td style="text-align: center;">406</td>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">1581</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><strong>Improvement</strong></td>
+<td style="text-align: center;">2031</td>
+<td style="text-align: center;">2694</td>
+<td style="text-align: center;">1923</td>
+<td style="text-align: center;">2189</td>
+<td style="text-align: center;">3454</td>
+<td style="text-align: center;">164</td>
+<td style="text-align: center;">12455</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><strong>Conflict</strong></td>
+<td style="text-align: center;">2202</td>
+<td style="text-align: center;">953</td>
+<td style="text-align: center;">1974</td>
+<td style="text-align: center;">2271</td>
+<td style="text-align: center;">1977</td>
+<td style="text-align: center;">12</td>
+<td style="text-align: center;">9389</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><strong>Sorrow</strong></td>
+<td style="text-align: center;">1044</td>
+<td style="text-align: center;">298</td>
+<td style="text-align: center;">988</td>
+<td style="text-align: center;">989</td>
+<td style="text-align: center;">575</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">3894</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><strong>Sadness</strong></td>
+<td style="text-align: center;">64</td>
+<td style="text-align: center;">84</td>
+<td style="text-align: center;">33</td>
+<td style="text-align: center;">43</td>
+<td style="text-align: center;">56</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">281</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><strong>Joy</strong></td>
+<td style="text-align: center;">47</td>
+<td style="text-align: center;">514</td>
+<td style="text-align: center;">69</td>
+<td style="text-align: center;">52</td>
+<td style="text-align: center;">168</td>
+<td style="text-align: center;">15</td>
+<td style="text-align: center;">865</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><strong>Anger</strong></td>
+<td style="text-align: center;">33</td>
+<td style="text-align: center;">30</td>
+<td style="text-align: center;">36</td>
+<td style="text-align: center;">49</td>
+<td style="text-align: center;">20</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">168</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><strong>Misfortune</strong></td>
+<td style="text-align: center;">14</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">37</td>
+<td style="text-align: center;">12</td>
+<td style="text-align: center;">72</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><strong>Assistance</strong></td>
+<td style="text-align: center;">43</td>
+<td style="text-align: center;">165</td>
+<td style="text-align: center;">82</td>
+<td style="text-align: center;">32</td>
+<td style="text-align: center;">84</td>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">411</td>
+</tr>
+<tr class="even">
+<td
+style="text-align: center;"><strong>Justice</strong></td>
+<td style="text-align: center;">138</td>
+<td style="text-align: center;">82</td>
+<td style="text-align: center;">170</td>
+<td style="text-align: center;">250</td>
+<td style="text-align: center;">332</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">973</td>
+</tr>
+</tbody>
+</table>
 
 # Citation
 
