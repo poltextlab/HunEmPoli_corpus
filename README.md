@@ -129,17 +129,20 @@ In order to ensure the quality of the corpus, the inter-annotator agreement (Coh
 </table>
 </div>
 
+Cohen's Kappa in different ETs - 1: Fear, 2: Suffering, 3: Crime, 4: Improvement, 5: Conflict, 6: Sorrow, 7: szomorúság, 8: Joy, 11: Assistance, 12: Justice.<br><br>
+
+
 # Citation
 
 Please refer to the following publication:
 
 
 @inproceedings{absa_2022, <br>
-  author = {{\"U}veges, István and Vincze, Veronika and Ring, Orsolya and Guba, {\relax Cs}enge},<br>
-  editor =       {Ines, Rehbein and Gabriella, Lapesa and Christopher, Klamm and Simone, Ponzetto},<br>
-  title =        {{Aspect-based emotion analysis of Hungarian parliamentary speeches}},<br>
-  booktitle =    {Proceedings of the 2nd Workshop on Computational Linguistics for Political Text Analysis (CPSS-2022) Potsdam, Germany},<br>
-  publisher =    {University of Mannheim, University of Stuttgart},<br>
-  year =         {2022}<br>
+  &emsp;author = {{\"U}veges, István and Vincze, Veronika and Ring, Orsolya and Guba, {\relax Cs}enge},<br>
+  &emsp;editor =       {Ines, Rehbein and Gabriella, Lapesa and Christopher, Klamm and Simone, Ponzetto},<br>
+  &emsp;title =        {{Aspect-based emotion analysis of Hungarian parliamentary speeches}},<br>
+  &emsp;booktitle =    {Proceedings of the 2nd Workshop on Computational Linguistics for Political Text Analysis (CPSS-2022) Potsdam, Germany},<br>
+  &emsp;publisher =    {University of Mannheim, University of Stuttgart},<br>
+  &emsp;year =         {2022}<br>
 }<br>
 
