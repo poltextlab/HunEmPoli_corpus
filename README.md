@@ -133,6 +133,8 @@ Cohen's Kappa in different ETs - 1: Fear, 2: Suffering, 3: Crime, 4: Improvement
 
 # Emotion Topic metrics per Party
 
+The resulting corpus contains 1008 speeches before the agenda, consisting of a total of 764008 tokens or 36475 sentences. Breakdown of each ET by party: <br><br>
+
 <table>
 <thead>
 <tr class="header">
