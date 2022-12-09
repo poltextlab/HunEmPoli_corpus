@@ -1,6 +1,6 @@
 # General information
 
-The HunEmPoli corpus was built using pre-agenda speeches from the 2014-2018 parliamentary term, and was created within the framework of the Hungarian Comparative Agendas Project (CAP) of the Institute of Political Science of the Centre for Social Science Research, and is freely accessible for research purposes upon registration (in case of any further questions, please contact: `ring.orsolya@tk.hu`)
+The (manually annotated) HunEmPoli corpus was built using pre-agenda speeches from the 2014-2018 parliamentary term, and was created within the framework of the Hungarian Comparative Agendas Project (CAP) of the Institute of Political Science of the Centre for Social Science Research, and is freely accessible for research purposes upon registration (in case of any further questions, please contact: `ring.orsolya@tk.hu`)
 
 # Annotation details
 
