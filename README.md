@@ -77,12 +77,67 @@ In the final annotation guide, a total of 12 so-called emotion topics (ET) were 
 </tbody>
 </table>
 
+# Quality Assurance
+
+In order to ensure the quality of the corpus, the inter-annotator agreement (Cohen's Kappa) was calculated from time to time. Since annotators marked Emotion Topics at clause-level, we performed token-level evaluation, as we did not want to minor errors (e.g. in the marking of punctuation marks or hyphens) differences in punctuation marks or punctuation marks) would distort the results. <br>
+
+<div id="7_tablazat">
+<table style="width:90%;">
+<caption>Emóciótopikok esetében mért egyetértés - <span
+class="math inline"><em>κ</em></span> (1: Fear, 2: romlás, 3:
+bűnözés, 4: javulás, 5: érdekellentét, 6: megvetés, 7: szomorúság, 8:
+derű, 11: segítség, 12: igazságszolgáltatás).</caption>
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><strong>ET</strong></th>
+<th style="text-align: left;"><strong>1</strong></th>
+<th style="text-align: left;"><strong>2</strong></th>
+<th style="text-align: left;"><strong>3</strong></th>
+<th style="text-align: left;"><strong>4</strong></th>
+<th style="text-align: left;"><strong>5</strong></th>
+<th style="text-align: left;"><strong>6</strong></th>
+<th style="text-align: left;"><strong>7</strong></th>
+<th style="text-align: left;"><strong>8</strong></th>
+<th style="text-align: left;"><strong>11</strong></th>
+<th style="text-align: left;"><strong>12</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Kappa</strong></td>
+<td style="text-align: left;">0,564</td>
+<td style="text-align: left;">0,885</td>
+<td style="text-align: left;">0,971</td>
+<td style="text-align: left;">0,930</td>
+<td style="text-align: left;">0,615</td>
+<td style="text-align: left;">0,846</td>
+<td style="text-align: left;">0,5</td>
+<td style="text-align: left;">1</td>
+<td style="text-align: left;">0,264</td>
+<td style="text-align: left;">1</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 # Citation
 
 Please refer to the following publication:
 
-`
+
 @inproceedings{absa_2022, <br>
   author = {{\"U}veges, István and Vincze, Veronika and Ring, Orsolya and Guba, {\relax Cs}enge},<br>
   editor =       {Ines, Rehbein and Gabriella, Lapesa and Christopher, Klamm and Simone, Ponzetto},<br>
@@ -91,4 +146,4 @@ Please refer to the following publication:
   publisher =    {University of Mannheim, University of Stuttgart},<br>
   year =         {2022}<br>
 }<br>
-`
+
