@@ -278,12 +278,13 @@ style="text-align: center;"><strong>Justice</strong></td>
 Please refer to the following publication:
 
 
-@inproceedings{absa_2022, <br>
-  &emsp;author = {{\"U}veges, István and Vincze, Veronika and Ring, Orsolya and Guba, {\relax Cs}enge},<br>
-  &emsp;editor =       {Ines, Rehbein and Gabriella, Lapesa and Christopher, Klamm and Simone, Ponzetto},<br>
-  &emsp;title =        {{Aspect-based emotion analysis of Hungarian parliamentary speeches}},<br>
-  &emsp;booktitle =    {Proceedings of the 2nd Workshop on Computational Linguistics for Political Text Analysis (CPSS-2022) Potsdam, Germany},<br>
-  &emsp;publisher =    {University of Mannheim, University of Stuttgart},<br>
+@inproceedings{ring_et_al_2023, <br>
+  &emsp;author =       {Ring, Orsolya and Vincze, Veronika and Guba, {\relax Cs}enge and {\"U}veges, István},<br>
+  &emsp;editor =       {...},<br>
+  &emsp;title =        {{HunEmPoli: magyar nyelv{\"u}, r\'eszletesen annot\'alt em\'oci\'okorpusz}},<br>
+  &emsp;booktitle =    {XIX. Magyar Sz\'am\'it\'og\'epes Nyelv\'eszeti Konferencia},<br>
+  &emsp;publisher =    {Szegedi Tudom\'anyegyetem},<br>
   &emsp;year =         {2022}<br>
+  &emsp;address =      {Szeged}
 }<br>
 
