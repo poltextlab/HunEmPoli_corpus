@@ -281,7 +281,7 @@ Please refer to the following publication:
 @inproceedings{ring_et_al_2023, <br>
   &emsp;author =       {Ring, Orsolya and Vincze, Veronika and Guba, {\relax Cs}enge and {\"U}veges, István},<br>
   &emsp;editor =       {...},<br>
-  &emsp;title =        {{HunEmPoli: magyar nyelv{\"u}, r\'eszletesen annot\'alt em\'oci\'okorpusz}},<br>
+  &emsp;title =        {{HunEmPoli: magyar nyelv{\"u}, r\\'eszletesen annot\'alt em\'oci\'okorpusz}},<br>
   &emsp;booktitle =    {XIX. Magyar Sz\'am\'it\'og\'epes Nyelv\'eszeti Konferencia},<br>
   &emsp;publisher =    {Szegedi Tudom\'anyegyetem},<br>
   &emsp;year =         {2022}<br>
