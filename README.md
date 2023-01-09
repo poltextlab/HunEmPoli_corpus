@@ -129,7 +129,7 @@ In order to ensure the quality of the corpus, the inter-annotator agreement (Coh
 </table>
 </div>
 
-Cohen's Kappa in different ETs - 1: Fear, 2: Suffering, 3: Crime, 4: Improvement, 5: Conflict, 6: Sorrow, 7: szomorúság, 8: Joy, 11: Assistance, 12: Justice.<br><br>
+Cohen's Kappa in different ETs - 1: Fear, 2: Suffering, 3: Crime, 4: Improvement, 5: Conflict, 6: Sorrow, 7: Sadness, 8: Joy, 11: Assistance, 12: Justice.<br><br>
 
 # Emotion Topic metrics per Party
 
